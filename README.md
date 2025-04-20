@@ -67,3 +67,5 @@
 ---
 
 > _“Legends move in silence. The rest post tutorials.”_
+
+<!-- If you found this, you're not supposed to. But since you're here... respect. -->
